@@ -13,7 +13,7 @@
 const JoaoDurso = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "C", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "gastronomy", "forró"],
+    askMeAbout: ["tech", "gastronomy", "forró"],
     technologies: {
         backEnd: {
             js: ["Node"],
@@ -27,7 +27,7 @@ const JoaoDurso = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications"],
     currentFocus: "Focused on University",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "I looove brazilian barbecue. Invite me anytime, ANYWHERE!"
 };
 ```
 
