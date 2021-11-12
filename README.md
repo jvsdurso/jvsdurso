@@ -14,7 +14,7 @@
 ```javascript
 const JoaoDurso = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "C", "PHP"],
+    code: ["Javascript", "Python", "Java", "C"],
     askMeAbout: ["tech", "gastronomy", "forró"],
     technologies: {
         backEnd: {
