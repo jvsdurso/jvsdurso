@@ -25,7 +25,6 @@ const JoaoDurso = {
         },
         devOps: ["Docker🐳"],
         databases: ["MySql"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications"],
     currentFocus: "Focused on University",
