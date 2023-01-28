@@ -14,19 +14,18 @@
 ```javascript
 const JoaoDurso = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "C++", "C"],
+    code: ["Prolog", "Python", "C++", "C"],
     askMeAbout: ["tech", "gastronomy", "forró"],
     technologies: {
         backEnd: {
-            js: ["Node"],
+            py: ["Django"],
         },
         mobileApp: {
             native: ["Android Development", "IOS Development"]
         },
         devOps: ["Docker🐳"],
-        databases: ["MySql"],
+        databases: ["PostgreSQL"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications"],
     currentFocus: "Focused on University",
     funFact: "I looove brazilian barbecue. Invite me anytime, ANYWHERE!"
 };
