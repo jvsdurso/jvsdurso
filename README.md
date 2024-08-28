@@ -14,11 +14,12 @@
 ```javascript
 const JoaoDurso = {
     pronouns: "He" | "Him",
-    code: ["C", "C++", "C#", "Python", "Haskell", "Dart", "Prolog"],
+    code: ["C", "C++", "C#", "Dart", "Haskell", "Java", "Javascript", "Prolog", "Python", "Typescript"],
     askMeAbout: ["tech", "gastronomy", "forró"],
     technologies: {
         backEnd: {
             py: ["Django"],
+            ts: ["Node.js"],
         },
         mobileApp: {
             native: ["Android Development", "IOS Development"]
