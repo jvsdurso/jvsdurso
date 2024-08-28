@@ -1,6 +1,6 @@
 <h2> Hey, I'm João ! <img src="https://media.giphy.com/media/irNysQgVlpHwjBDIqP/giphy.gif" width="40"> </h2> <h4> Please, call me "Durso" <img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif" width="45"></h4>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer Prototype (Almost graduated at <a href="http://www.unb.br">University of Brasilia</a>) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+<p><em>Software Engineer graduated at <a href="http://www.unb.br">University of Brasília</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
 
 
