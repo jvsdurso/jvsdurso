@@ -5,7 +5,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jvsdurso/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jvsdurso)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvsdurso)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -14,7 +14,7 @@ const JoaoDurso = {
     pronouns: "He" | "Him",
     code: ["C", "C++", "C#", "Dart", "Haskell", "Java", "Javascript", "Prolog",
             "Python", "Typescript"],
-    askMeAbout: ["tech", "gastronomy", "forró"],
+    askMeAbout: ["software engineering ai-native", "cybersecurity", "appsec", "gastronomy"],
     technologies: {
         backEnd: {
             py: ["Django"],
@@ -26,7 +26,7 @@ const JoaoDurso = {
         devOps: ["Docker🐳"],
         databases: ["PostgreSQL"],
     },
-    currentFocus: "Focused on University",
+    currentFocus: "Focused on Cybersecurity Certifications",
     funFact: "I looove brazilian barbecue. Invite me anytime, ANYWHERE!"
 };
 ```
